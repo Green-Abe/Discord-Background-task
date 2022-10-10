@@ -1,1 +1,1 @@
-channel_id=1002923307517087827#put your channel id here
+channel_id=   #put your channel id here
